@@ -66,7 +66,7 @@ public class User {
 		this.userName=userName;
 		this.password=password;
 		this.role=role;
-		//this.theater=theater;
+		
 	}
 	public User() {
 		
