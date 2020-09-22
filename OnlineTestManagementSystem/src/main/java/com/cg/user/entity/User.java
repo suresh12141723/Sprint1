@@ -31,13 +31,7 @@ public class User {
 	
 	
 	// @ManyToOne
-	 
-	// @JoinColumn(name="movie_id", referencedColumnName="movie_id") 
-	// private Movie movie;
 	
-	//@ManyToOne
-	//@JoinColumn(name="theaterId", referencedColumnName = "theaterId")
-	//private Theater theater;
 	public int getUserId() {
 		return userId;
 	}
